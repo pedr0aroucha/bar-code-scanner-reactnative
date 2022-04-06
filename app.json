@@ -1,10 +1,11 @@
 {
-  "expo": {
-    "name": "code-scanner",
-    "slug": "code-scanner",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+	"expo": {
+		"name": "code-scanner",
+		"slug": "code-scanner",
+		"version": "1.0.0",
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"bundleIdentifier": "com.pedr0aroucha.code-scanner"
+		}
+	}
 }
